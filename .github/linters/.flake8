@@ -1,0 +1,2 @@
+LINTER_RULES_PATH: configs/
+JAVASCRIPT_ES_CONFIG_FILE: configs/linters/.eslintrc.yml
