@@ -1,0 +1,5 @@
+[flake8]
+max-line-length = 120
+
+LINTER_RULES_PATH: configs/
+JAVASCRIPT_ES_CONFIG_FILE: configs/linters/.eslintrc.yml
